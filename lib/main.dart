@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'screens/hello_world_screen.dart';
+import 'package:flutter_hello_world/screens/hello_world_screen.dart';
+// import 'screens/hello_world_screen.dart';
 
 void main() {
   runApp(const MyApp());
